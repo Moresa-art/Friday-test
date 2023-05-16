@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portuguese Tart And Baker
+* source:	https://sketchfab.com/3d-models/portuguese-tart-and-baker-4e1a35040ab1488191ba4f82ebbb2754
+* author:	chung_the_artist (https://sketchfab.com/chung_the_artist)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portuguese Tart And Baker" (https://sketchfab.com/3d-models/portuguese-tart-and-baker-4e1a35040ab1488191ba4f82ebbb2754) by chung_the_artist (https://sketchfab.com/chung_the_artist) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
